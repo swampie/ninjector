@@ -1,3 +1,13 @@
 {"beans":[
-	{"one":"1"}
+	{
+		"id":"connection",
+		"module":"${baseScanPath}/mongo",
+		"properties":{
+			"url":"http://localhost/test",
+			"credentials":{
+				"username":"root",
+				"password":"sa"
+		}
+		}
+	 }
 ]}
