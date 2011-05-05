@@ -1,0 +1,14 @@
+{"beans":[
+	{
+		"id":"connection",
+		"module":"../test/fake",
+		"properties":{
+			"one":"1",
+			"two":"2",
+			"sub":{
+				"three":"3",
+				"four":"4"
+			}
+		}
+	 }
+]}

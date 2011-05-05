@@ -1,6 +1,6 @@
 {"beans":[
 	{
-		"id":"connection",
+		"id":"connection"
 		"module":"${baseScanPath}/mongo",
 		"properties":{
 			"url":"http://localhost/test",
